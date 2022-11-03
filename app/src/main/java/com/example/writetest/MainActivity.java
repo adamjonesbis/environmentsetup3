@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
     private Button btnRead;
 
     
-    
+     // code from https://www.youtube.com/watch?v=T4DQvImX5P8&list=PLYx38U7gxBf3pmsHVTUwRT_lGON6ZIBHi&index=2&ab_channel=TechnicalSkillz
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
